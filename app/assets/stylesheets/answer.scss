@@ -1,0 +1,22 @@
+// Place all the styles related to the answer controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$gray: #F4F4F4;
+
+
+body {
+  background-color: $gray;
+  font: 100% Helvetica, sans-serif;
+  text-align: left;
+  padding-top: 50px;
+  padding-right: 200px;
+  padding-left: 200px;
+  text-decoration: none;
+
+
+  h1 {
+    font-size: 40px;
+    font-weight: bold;
+  }
+}
